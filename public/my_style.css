@@ -1,0 +1,25 @@
+.my_btn{
+    font-size: 14px;
+    padding: 12px;
+    border-radius: 6px;
+    color: blue;
+    background: #8fd25a;
+    text-align: center;
+    font-weight: 500
+}
+.my_btn:hover{
+    color: rgb(255, 255, 255);
+    background: #003294;
+    border: none;
+    transition: 0.3s ease-in-out;
+}
+.my_css{
+    margin-top: 8px;
+}
+.color_css{
+    font-size: 5px;
+    border: 1px solid;
+}
+.red{
+    color: red;
+}
